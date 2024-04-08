@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="bg-[#1b1f25] min-h-screen flex items-center justify-center">
       <div className="w-[80%] sm:w-full max-w-[400px] rounded-xl bg-[#262d35] p-10 flex flex-col items-center gap-4">
-        <img className="rounded-full w-24 aspect-square" src="/src/foto.jpg"></img>
+        <img className="rounded-full w-24 aspect-square" src="/foto.jpg"></img>
         <div className="text-center">
           <h1 className="text-2xl font-bold text-[#EBEBEB]">Ikhsan Ramadhanu</h1>
           <p className="text-[#51a38a] font-medium">Jakarta, Indonesia</p>
