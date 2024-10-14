@@ -15,7 +15,7 @@ function App() {
           <Link link="https://www.linkedin.com/in/ikhsan-ramadhanu-6369202a9/" text="LinkedIn" />
           <Link link="https://github.com/IkhsanRamadhanu" text="Github" />
           <Link link="mailto:ikhsanfathirizkyr@gmail.com" text="Email" />
-          <Link link="https://ikhsanramadhanu.github.io/Personal-Website/" text="Website" />
+          {/* <Link link="https://ikhsanramadhanu.github.io/Personal-Website/" text="Website" /> */}
         </div>
       </div>
     </div>
